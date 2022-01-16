@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Sohny](https://toppng.com/uploads/preview/spider-man-png-spiderman-11563230518fsdt8a9hyc.png)
