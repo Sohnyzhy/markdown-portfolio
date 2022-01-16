@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+-     Food and Drink
+-     Sports
+-     Random
+-     lorem
+
